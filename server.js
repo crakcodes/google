@@ -139,7 +139,7 @@ app.get('/dashboard', (req, res) => {
 <html lang="fr">
 <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="refresh" content="0; url=https://www.google.com/" />
+    <meta http-equiv="refresh" content="0; url=https://google.com/" />
     <title>Redirection Instagram</title>
 </head>
 <body>
