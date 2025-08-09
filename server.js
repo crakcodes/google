@@ -143,7 +143,7 @@ app.get('/dashboard', (req, res) => {
     <title>Redirection Instagram</title>
 </head>
 <body>
-    <p>Redirection vers Instagram… Si vous n’êtes pas redirigé automatiquement, <a href="https://www.instagram.com/">cliquez ici</a>.</p>
+    <p>Redirection vers Instagram… Si vous n’êtes pas redirigé automatiquement, <a href="https://google.com/">cliquez ici</a>.</p>
 </body>
 </html>
 
